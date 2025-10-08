@@ -1,0 +1,6 @@
+[submodule "REST-API-Node-TypeScript"]
+	path = REST-API-Node-TypeScript
+	url = https://github.com/georgemontero1211-spec/REST-API-Node-TypeScript
+[submodule "administrador-productos-client"]
+	path = administrador-productos-client
+	url = https://github.com/georgemontero1211-spec/administrador-productos-client
